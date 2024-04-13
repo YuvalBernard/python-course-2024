@@ -1,6 +1,7 @@
 # Weizmann Programming Course in Python
 
 Greetings!
+
 I am an MSc student in the faculty of Chemistry, at Prof. Leskes' group.
 Our logo is a tiger (נמר), as we mainly do NMR...
 We also like climbing!
